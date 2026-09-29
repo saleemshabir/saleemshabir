@@ -14,7 +14,7 @@
 - 🎓 **Education:** Computer Science Engineering
 - 👨‍💻 **Role:** Student & Developer
 - 🎯 **Focus:** Full Stack Web Development
-- 📖 **Currently Learning:** JavaScript, React, Node.js, Express.js, MongoDB
+- 📖 **Currently Learning:** React, Node.js, Express.js, MongoDB
 - 💡 **Interests:** Web Development, Problem Solving, Data Structures
 - 🚀 **Goal:** Build useful applications and become a better developer
 
