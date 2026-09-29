@@ -11,16 +11,12 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const saleem = {
-  education: "Computer Science Engineering",
-  role: "Student & Developer",
-  focus: "Full Stack Web Development",
-  currentlyLearning: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
-  interests: ["Web Development", "Problem Solving", "Data Structures"],
-  goal: "Build useful applications and become a better developer 🚀"
-};
-```
+- 🎓 **Education:** Computer Science Engineering
+- 👨‍💻 **Role:** Student & Developer
+- 🎯 **Focus:** Full Stack Web Development
+- 📖 **Currently Learning:** JavaScript, React, Node.js, Express.js, MongoDB
+- 💡 **Interests:** Web Development, Problem Solving, Data Structures
+- 🚀 **Goal:** Build useful applications and become a better developer
 
 ---
 
@@ -105,21 +101,9 @@ const saleem = {
 
 ## 🎯 My Learning Path
 
-```text
-HTML + CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Node.js
-     ↓
-Express.js
-     ↓
-MongoDB
-     ↓
-Full Stack Developer 🚀
-```
+<p align="center">
+  <b>HTML + CSS</b> ➜ <b>JavaScript</b> ➜ <b>React</b> ➜ <b>Node.js</b> ➜ <b>Express.js</b> ➜ <b>MongoDB</b> ➜ <b>Full Stack Developer 🚀</b>
+</p>
 
 ---
 
@@ -133,15 +117,13 @@ I believe the best way to learn development is by building real projects, solvin
 
 ## 📌 Currently Exploring
 
-```text
-⚛️ React
-🟢 Node.js
-🚂 Express.js
-🍃 MongoDB
-🔐 Authentication & APIs
-🧩 Data Structures
-🌐 Full Stack Development
-```
+- ⚛️ React
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🔐 Authentication & APIs
+- 🧩 Data Structures
+- 🌐 Full Stack Development
 
 ---
 
