@@ -1,38 +1,62 @@
-<h1 align="center">Hi 👋, I'm Saleem Shabir</h1>
+<h1 align="center">Hey 👋, I'm Saleem Shabir</h1>
 
-<h3 align="center">Computer Science Engineering Student | Full Stack Web Developer</h3>
+<h3 align="center">💻 CSE Student | Full Stack Web Developer in Progress 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/saleemshabir">
     <img src="https://komarev.com/ghpvc/?username=saleemshabir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
+  <a href="https://github.com/saleemshabir?tab=followers">
+    <img src="https://img.shields.io/github/followers/saleemshabir?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently learning JavaScript, React, Node.js, Express.js and MongoDB
-- 🛠️ Building projects to improve my development skills
-- 📚 Interested in Data Structures, Problem Solving and Software Development
-- 🚀 Always learning and exploring new technologies
+```javascript
+const saleem = {
+    education: "Computer Science Engineering",
+    role: "Student & Developer",
+    focus: "Full Stack Web Development",
+    currentlyLearning: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
+    interests: ["Web Development", "Problem Solving", "Data Structures"],
+    goal: "Build useful applications and become a better developer 🚀"
+};
+```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 What I'm Working On
 
-### 💻 Programming Languages
+* 🌐 Building full-stack web applications
+* ⚛️ Improving my React skills
+* 🟢 Learning backend development with Node.js & Express
+* 🍃 Working with MongoDB and Mongoose
+* 🧠 Strengthening Data Structures & Problem Solving
+* 🔧 Building projects instead of just watching tutorials
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🔧 Tools
@@ -43,69 +67,133 @@
 
 ---
 
-## 🚀 Projects
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### ✈️ Travel Trip Planner
 
-A full-stack web application for planning and managing trips.
+A full-stack application for planning and managing trips.
 
-**Technologies:** React, Node.js, Express.js, MongoDB
+**Stack:** React • Node.js • Express • MongoDB
 
----
+</td>
+
+<td width="50%">
 
 ### 🏋️ Gym Management System
 
-A web-based system for managing gym members, trainers, memberships, equipment, classes, payments and attendance.
+A web application for managing gym members, trainers, memberships, equipment and attendance.
 
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+**Stack:** HTML • CSS • JavaScript • Node.js • Express • MongoDB
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎓 Campus Connect
 
 A campus event management application for discovering and managing college activities.
 
-**Technologies:** React, JavaScript, HTML, CSS
+**Stack:** React • JavaScript • HTML • CSS
 
----
+</td>
 
-### 📚 Library Book Search System
+<td width="50%">
 
-A data-structure based project for managing and searching library books efficiently.
+### 📚 Library Book Search
 
-**Concepts:** Binary Search, Hashing, AVL Tree / BST
+A data-structure based library search system using efficient searching and tree-based techniques.
+
+**Concepts:** Binary Search • Hashing • AVL Tree / BST
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saleemshabir&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saleemshabir&theme=github-dark" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saleemshabir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleemshabir&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleemshabir&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=saleemshabir&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 My Learning Path
 
 ```text
+HTML + CSS
+     ↓
 JavaScript
      ↓
 React
      ↓
-Node.js + Express
+Node.js
+     ↓
+Express.js
      ↓
 MongoDB
      ↓
-Full Stack Development
+Full Stack Developer 🚀
+```
+
+---
+
+## 🧠 Developer Mindset
+
+> Learn → Build → Break → Debug → Improve → Repeat 🔁
+
+I believe the best way to learn development is by building real projects, solving problems, and understanding how things work behind the scenes.
+
+---
+
+## 📌 Currently Exploring
+
+```text
+⚛️ React
+🟢 Node.js
+🚂 Express.js
+🍃 MongoDB
+🔐 Authentication & APIs
+🧩 Data Structures
+🌐 Full Stack Development
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/saleem-shabir">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saleemshabir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Learn. Build. Repeat. ⚡</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
