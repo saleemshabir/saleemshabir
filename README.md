@@ -37,7 +37,6 @@ I'm a Computer Science Engineering student from Kashmir with a passion for build
 - ✅ Learning REST APIs with Node.js & Express
 - ✅ Practising MongoDB & Mongoose
 - ✅ Understanding authentication & backend flow
-- ✅ Building projects, not just following tutorials
 
 *Small steps. Big progress.* 🚀
 
